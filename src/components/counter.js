@@ -10,7 +10,7 @@ const Counter = () => {
     if (count > 0) {
       setCount(count - 1);
     }else{
-        alert("0 th position")
+        alert("At 0th position")
     }
   };
   return (
